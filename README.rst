@@ -1,5 +1,5 @@
 ===================================================
-Learning Representations for Time Series Clustering
+Learning Representations for Time Series Clustering - Retail application
 ===================================================
 
 
@@ -22,6 +22,16 @@ Learning Representations for Time Series Clustering
 * Free software: MIT license
 * Documentation: https://dtcr.readthedocs.io.
 
+Project map (until May 30th)
+------------
+
+1. Identify at least one dataset;
+2. Build dataloader for dataset;
+3. Build baseline model;
+4. Start writing about project (at least 2 pages);
+5. Automatic EDA methodology on dataset;
+6. Describe the task;
+7. Describe how I will apply the paper techinique to retail context
 
 Features
 --------
