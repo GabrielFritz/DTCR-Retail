@@ -16,7 +16,7 @@ Learning Representations for Time Series Clustering - Retail application
 
 
 
-Learning Representations for Time Series Clustering
+Applying DTCR to retail problems
 
 
 * Free software: MIT license
